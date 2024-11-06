@@ -1,4 +1,5 @@
-package PACKAGE_NAME;
-
 public interface Animal {
+    void eat();
+    void sleep();
+    void makeSound();
 }
